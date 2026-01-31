@@ -8,7 +8,6 @@ Proyecto de ejemplo para gestionar un gimnasio: clientes y rutinas. Implementado
 - Spring Boot Starter Data JPA
 - MySQL Connector/J
 - springdoc-openapi (Swagger UI)
-- Lombok (si se usa)
 
 ## Configuración de base de datos
 La configuración por defecto (no incluida en el repositorio) se coloca en `src/main/resources/application.properties`.
@@ -60,7 +59,3 @@ src/main/java/com/campus/gimnasio/
 - Manuel Galvis
 - Jhoan Diaz
 
----
-Si desea, puedo también:
-- Ejecutar los tests (si existen)
-- Push al remoto (se necesitará autenticar)
